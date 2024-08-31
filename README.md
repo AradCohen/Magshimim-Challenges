@@ -21,7 +21,9 @@ After you have done it, you can send HTTP requests to this Nginx server using yo
 curl http://localhost:80/
 ```
 The server response should be "Hello , World!"
-With the curl command, we sent a request to Nginx, a server that acts as a "reverse proxy." Nginx passes the request to the Flask application and returns the result to us.
+
+With the curl command, we sent a request to Nginx, a server that acts as a "reverse proxy".
+Nginx passes the request to the Flask application and returns the result to us.
 
 (Bonus: read more about the curl command using `man curl`, it is one of the most valuable commands out there)
 
