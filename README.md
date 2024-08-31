@@ -63,7 +63,7 @@ What are the differences between docker and VM?
 Run the following command:
 
 ```
-less Dockerfile
+less docker-compose.yml
 ```
 
 If you are not familiar with yaml files, read about them, and then read about docker-compose and why we need them. Read also about docker's volume, port-mapping and networks
