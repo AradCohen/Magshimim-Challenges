@@ -57,7 +57,7 @@ less Dockerfile
 ```
 
 Read about Dockerfile, understand the "FROM" keyword
-What are the differences between docker and VM?
+and what are the differences between docker and VM?
 
 #### docker-compose.yml
 Run the following command:
